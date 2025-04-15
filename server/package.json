@@ -1,0 +1,22 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "\"A mentor App for the Students and Learners\"",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "keywords": [
+    "Mentor",
+    "Mentii"
+  ],
+  "author": "Subramanya Talli",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "i": "^0.3.7",
+    "nodemon": "^3.1.9",
+    "npm": "^11.3.0"
+  }
+}
